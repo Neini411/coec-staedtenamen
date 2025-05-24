@@ -1,0 +1,9 @@
+available: false
+id: 7
+mainset:
+- names:
+  - name: Obercöck
+    probability: 1
+name: Obercöck
+source: null
+subsets: []
