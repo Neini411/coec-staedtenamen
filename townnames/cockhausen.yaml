@@ -1,0 +1,9 @@
+available: false
+id: 22
+mainset:
+- names:
+  - name: Cöckhausen
+    probability: 1
+name: Cöckhausen
+source: null
+subsets: []
