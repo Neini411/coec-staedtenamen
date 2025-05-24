@@ -1,0 +1,9 @@
+available: false
+id: 21
+mainset:
+- names:
+  - name: Cöckheim
+    probability: 1
+name: 'New Townname #21'
+source: Cöckheim
+subsets: []
