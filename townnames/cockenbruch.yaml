@@ -1,0 +1,9 @@
+available: false
+id: 20
+mainset:
+- names:
+  - name: Cöckenbruch
+    probability: 1
+name: Cöckenbruch
+source: null
+subsets: []
