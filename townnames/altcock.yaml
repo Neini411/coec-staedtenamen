@@ -1,0 +1,9 @@
+available: false
+id: 3
+mainset:
+- names:
+  - name: Altcöck
+    probability: 1
+name: Altcöck
+source: null
+subsets: []
