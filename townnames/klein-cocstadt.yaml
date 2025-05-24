@@ -1,0 +1,9 @@
+available: false
+id: 16
+mainset:
+- names:
+  - name: Klein-Cöcstadt
+    probability: 1
+name: Klein-Cöcstadt
+source: null
+subsets: []
